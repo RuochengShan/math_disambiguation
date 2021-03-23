@@ -1,0 +1,17 @@
+\ln  O
+z  O
+_  O
+1  O
+z  O
+_  O
+2  O
+=  O
+\ln  O
+z  O
+_  O
+1  O
+-  O
+\ln  O
+z  O
+_  O
+2  O

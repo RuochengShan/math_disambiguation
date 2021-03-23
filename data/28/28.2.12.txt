@@ -1,0 +1,40 @@
+w  O
+^  O
+\prime  O
+_  O
+\tiny I  O
+(  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O
+=  O
+2  O
+w  O
+_  O
+\tiny I  O
+(  O
+1  O
+2  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny I  O
+(  O
+1  O
+2  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O

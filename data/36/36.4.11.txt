@@ -1,0 +1,16 @@
+x  O
++  O
+iy  O
+=  O
+-  O
+z  O
+^  O
+2  O
+\exp  O
+\left(  O
+2  O
+3  O
+i  O
+\pi  O
+m  O
+\right)  O

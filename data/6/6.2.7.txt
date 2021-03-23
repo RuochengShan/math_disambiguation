@@ -1,0 +1,17 @@
+Ei  O
+\left(  O
+\pm  O
+x  O
+\right)  O
+=  O
+-  O
+Ein  O
+\left(  O
+\mp  O
+x  O
+\right)  O
++  O
+\ln  O
+x  O
++  O
+\gamma  O

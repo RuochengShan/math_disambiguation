@@ -1,0 +1,15 @@
+k  O
+_  O
+1  O
+k  O
+_  O
+1  O
+^  O
+\prime  O
+=  O
+k  O
+1  O
++  O
+k  O
+^  O
+2  O

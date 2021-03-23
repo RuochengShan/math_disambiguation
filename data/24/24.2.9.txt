@@ -1,0 +1,16 @@
+E  O
+_  O
+n  O
+=  O
+2  O
+^  O
+n  O
+E  O
+_  O
+n  O
+\left(  O
+1  O
+2  O
+\right)  O
+=  O
+integer  O

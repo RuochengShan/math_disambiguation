@@ -1,0 +1,15 @@
+L  O
+\left(  O
+f  O
+*  O
+g  O
+\right)  O
+=  O
+L  O
+\left(  O
+f  O
+\right)  O
+L  O
+\left(  O
+g  O
+\right)  O

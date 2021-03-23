@@ -1,0 +1,15 @@
+n  O
+,  O
+m  O
+=  O
+0  O
+,  O
+1  O
+,  O
+\ldots  O
+,  O
+N  O
+;  O
+n  O
+\neq  O
+m  O

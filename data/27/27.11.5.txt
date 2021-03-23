@@ -1,0 +1,16 @@
+\alpha  O
+>  O
+0  O
+,  O
+\alpha  O
+\neq  O
+1  O
+,  O
+\beta  O
+=  O
+\max  O
+(  O
+1  O
+,  O
+\alpha  O
+)  O

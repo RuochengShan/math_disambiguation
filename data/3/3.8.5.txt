@@ -1,0 +1,15 @@
+\phi  O
+(  O
+x  O
+)  O
+=  O
+x  O
++  O
+x  O
+\cot  O
+^  O
+2  O
+x  O
+-  O
+\cot  O
+x  O

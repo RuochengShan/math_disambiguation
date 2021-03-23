@@ -1,0 +1,16 @@
+\operatorname  O
+erfc  O
+z  O
+=  O
+1  O
+\sqrt  O
+\pi  O
+\Gamma  O
+\left(  O
+1  O
+2  O
+,  O
+z  O
+^  O
+2  O
+\right)  O

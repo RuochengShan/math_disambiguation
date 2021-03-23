@@ -1,0 +1,16 @@
+\sin  O
+\left(  O
+u  O
+\pm  O
+v  O
+\right)  O
+=  O
+\sin  O
+u  O
+\cos  O
+v  O
+\pm  O
+\cos  O
+u  O
+\sin  O
+v  O

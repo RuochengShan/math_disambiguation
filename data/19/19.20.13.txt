@@ -1,0 +1,15 @@
+p  O
+=  O
+x  O
+\pm  O
+\sqrt  O
+(  O
+y  O
+-  O
+x  O
+)  O
+(  O
+z  O
+-  O
+x  O
+)  O

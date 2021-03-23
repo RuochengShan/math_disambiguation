@@ -1,0 +1,15 @@
+R  O
+_  O
+F  O
+\left(  O
+1  O
+,  O
+2  O
+,  O
+4  O
+\right)  O
+=  O
+0.68508  O
+\;  O
+58166  O
+\dots  O

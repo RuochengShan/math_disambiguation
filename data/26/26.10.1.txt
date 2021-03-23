@@ -1,0 +1,25 @@
+p  O
+\left(  O
+D  O
+,  O
+0  O
+\right)  O
+=  O
+p  O
+\left(  O
+D  O
+k  O
+,  O
+0  O
+\right)  O
+=  O
+p  O
+\left(  O
+\in  O
+\!  O
+S  O
+,  O
+0  O
+\right )  O
+=  O
+1  O

@@ -1,0 +1,17 @@
+x  O
+(  O
+t  O
+)  O
+=  O
+a  O
+\operatorname  O
+sn  O
+\left(  O
+t  O
+\sqrt  O
+1  O
+-  O
+\eta  O
+,  O
+k  O
+\right)  O

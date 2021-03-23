@@ -1,0 +1,16 @@
+d  O
+^  O
+2  O
+w  O
+d  O
+x  O
+^  O
+2  O
+=  O
+(  O
+x  O
++  O
+\ln  O
+x  O
+)  O
+w  O

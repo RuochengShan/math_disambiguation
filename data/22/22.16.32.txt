@@ -1,0 +1,26 @@
+Z  O
+\left(  O
+x  O
+|  O
+k  O
+\right)  O
+=  O
+E  O
+\left(  O
+x  O
+,  O
+k  O
+\right)  O
+-  O
+(  O
+E  O
+\left(  O
+k  O
+\right)  O
+/  O
+K  O
+\left (  O
+k  O
+\right)  O
+)  O
+x  O

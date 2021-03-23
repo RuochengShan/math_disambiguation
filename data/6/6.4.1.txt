@@ -1,0 +1,17 @@
+E  O
+_  O
+1  O
+\left(  O
+z  O
+\right)  O
+=  O
+Ein  O
+\left(  O
+z  O
+\right)  O
+-  O
+\operatorname  O
+Ln  O
+z  O
+-  O
+\gamma  O

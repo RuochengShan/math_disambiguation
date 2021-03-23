@@ -1,0 +1,15 @@
+\Gamma  O
+_  O
+q  O
+\left(  O
+1  O
+\right)  O
+=  O
+\Gamma  O
+_  O
+q  O
+\left(  O
+2  O
+\right)  O
+=  O
+1  O

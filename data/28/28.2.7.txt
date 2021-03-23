@@ -1,0 +1,56 @@
+w  O
+_  O
+\tiny I  O
+(  O
+z  O
+\pm  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O
+=  O
+w  O
+_  O
+\tiny I  O
+(  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+_  O
+\tiny I  O
+(  O
+z  O
+;  O
+a  O
+,  O
+q  O
+)  O
+\pm  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny I  O
+(  O
+\pi  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+_  O
+\tiny II  O
+(  O
+z  O
+;  O
+a  O
+,  O
+q  O
+)  O

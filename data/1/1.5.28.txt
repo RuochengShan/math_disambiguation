@@ -1,0 +1,20 @@
+f  O
+^  O
+*  O
+(  O
+x  O
+,  O
+y  O
+)  O
+=  O
+f  O
+(  O
+x  O
+,  O
+y  O
+)  O
+,  O
+if $(x,y)\in D$  O
+,  O
+0  O
+,  O

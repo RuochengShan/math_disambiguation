@@ -1,0 +1,15 @@
+\sigma  O
+\left(  O
+cz  O
+|  O
+c  O
+L  O
+\right)  O
+=  O
+c  O
+\sigma  O
+\left(  O
+z  O
+|  O
+L  O
+\right)  O

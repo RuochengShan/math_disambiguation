@@ -1,0 +1,15 @@
+r  O
+_  O
+n  O
+-  O
+k  O
+(  O
+B  O
+)  O
+=  O
+S  O
+\left(  O
+n  O
+,  O
+k  O
+\right)  O

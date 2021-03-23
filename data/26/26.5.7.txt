@@ -1,0 +1,17 @@
+\lim  O
+_  O
+n  O
+\to  O
+\infty  O
+C  O
+\left(  O
+n  O
++  O
+1  O
+\right)  O
+C  O
+\left(  O
+n  O
+\right)  O
+=  O
+4  O

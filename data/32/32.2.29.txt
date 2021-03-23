@@ -1,0 +1,15 @@
+\beta  O
+=  O
+1  O
+2  O
+\epsilon  O
+^  O
+-  O
+6  O
++  O
+2  O
+a  O
+\epsilon  O
+^  O
+-  O
+3  O

@@ -1,0 +1,15 @@
+Ci  O
+\left(  O
+z  O
+\right)  O
+=  O
+-  O
+Cin  O
+\left(  O
+z  O
+\right)  O
++  O
+\ln  O
+z  O
++  O
+\gamma  O

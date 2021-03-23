@@ -1,0 +1,15 @@
+f  O
+_  O
+n  O
+=  O
+g  O
+_  O
+n  O
++  O
+o  O
+\left(  O
+r  O
+^  O
+-  O
+n  O
+\right)  O

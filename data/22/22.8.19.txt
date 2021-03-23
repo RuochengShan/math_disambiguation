@@ -1,0 +1,17 @@
+z  O
+_  O
+1  O
++  O
+z  O
+_  O
+2  O
++  O
+z  O
+_  O
+3  O
++  O
+z  O
+_  O
+4  O
+=  O
+0  O

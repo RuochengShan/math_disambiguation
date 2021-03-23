@@ -1,0 +1,17 @@
+e  O
+=  O
+1  O
++  O
+1  O
+1  O
+!  O
++  O
+1  O
+2  O
+!  O
++  O
+1  O
+3  O
+!  O
++  O
+\cdots  O

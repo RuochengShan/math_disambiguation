@@ -1,0 +1,15 @@
+d  O
+^  O
+2  O
+w  O
+d  O
+x  O
+^  O
+2  O
++  O
+x  O
+^  O
+\alpha  O
+w  O
+=  O
+0  O

@@ -1,0 +1,15 @@
+\det  O
+[  O
+a  O
+_  O
+jk  O
+]  O
+^  O
+T  O
+=  O
+\det  O
+[  O
+a  O
+_  O
+jk  O
+]  O

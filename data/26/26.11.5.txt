@@ -1,0 +1,16 @@
+F  O
+_  O
+n  O
+=  O
+F  O
+_  O
+n  O
+-  O
+1  O
++  O
+F  O
+_  O
+n  O
+-  O
+2  O
+,  O

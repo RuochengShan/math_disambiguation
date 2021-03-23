@@ -1,0 +1,15 @@
+Ai  O
+'  O
+\left(  O
+x  O
+\right)  O
+=  O
+N  O
+\left(  O
+x  O
+\right)  O
+\sin  O
+\phi  O
+\left(  O
+x  O
+\right)  O

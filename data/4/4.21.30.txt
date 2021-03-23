@@ -1,0 +1,15 @@
+\sin  O
+\left(  O
+3  O
+z  O
+\right)  O
+=  O
+3  O
+\sin  O
+z  O
+-  O
+4  O
+\sin  O
+^  O
+3  O
+z  O

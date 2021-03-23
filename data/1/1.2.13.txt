@@ -1,0 +1,25 @@
+A  O
+_  O
+j  O
+=  O
+f  O
+(  O
+\alpha  O
+_  O
+j  O
+)  O
+\prod  O
+\limits  O
+_  O
+k  O
+\not =  O
+j  O
+(  O
+\alpha  O
+_  O
+j  O
+-  O
+\alpha  O
+_  O
+k  O
+)  O

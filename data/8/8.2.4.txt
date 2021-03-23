@@ -1,0 +1,17 @@
+Q  O
+\left(  O
+a  O
+,  O
+z  O
+\right)  O
+=  O
+\Gamma  O
+\left(  O
+a  O
+,  O
+z  O
+\right)  O
+\Gamma  O
+\left(  O
+a  O
+\right)  O

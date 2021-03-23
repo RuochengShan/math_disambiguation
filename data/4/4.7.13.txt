@@ -1,0 +1,15 @@
+w  O
+=  O
+\exp  O
+\left(  O
+\int  O
+f  O
+(  O
+z  O
+)  O
+d  O
+z  O
+\right)  O
++  O
+\rm  O
+constant  O

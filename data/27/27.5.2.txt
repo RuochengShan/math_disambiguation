@@ -1,0 +1,15 @@
+\sum  O
+_  O
+d  O
+\mathbin  O
+|  O
+n  O
+\mu  O
+\left(  O
+d  O
+\right)  O
+=  O
+\left\lfloor  O
+1  O
+n  O
+\right\rfloor  O

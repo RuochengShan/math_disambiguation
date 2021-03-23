@@ -1,0 +1,15 @@
+\tanh  O
+\left(  O
+2  O
+z  O
+\right)  O
+=  O
+2  O
+\tanh  O
+z  O
+1  O
++  O
+\tanh  O
+^  O
+2  O
+z  O

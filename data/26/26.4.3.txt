@@ -1,0 +1,16 @@
+n  O
+=  O
+a  O
+_  O
+1  O
++  O
+2  O
+a  O
+_  O
+2  O
++  O
+\cdots  O
++  O
+na  O
+_  O
+n  O

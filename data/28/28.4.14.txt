@@ -1,0 +1,16 @@
+A  O
+^  O
+2  O
+n  O
++  O
+1  O
+_  O
+2  O
+m  O
++  O
+1  O
+(  O
+0  O
+)  O
+=  O
+0  O

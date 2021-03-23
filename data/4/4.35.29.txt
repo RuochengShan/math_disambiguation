@@ -1,0 +1,15 @@
+\sinh  O
+\left(  O
+3  O
+z  O
+\right)  O
+=  O
+3  O
+\sinh  O
+z  O
++  O
+4  O
+\sinh  O
+^  O
+3  O
+z  O

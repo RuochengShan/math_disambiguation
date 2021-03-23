@@ -1,0 +1,21 @@
+P  O
+_  O
+-  O
+1  O
+2  O
+\left(  O
+\cos  O
+\theta  O
+\right)  O
+=  O
+2  O
+\pi  O
+K  O
+\left(  O
+\sin  O
+\left (  O
+1  O
+2  O
+\theta  O
+\right)  O
+\right)  O

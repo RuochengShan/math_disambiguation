@@ -1,0 +1,16 @@
+\operatorname  O
+gd  O
+\left(  O
+x  O
+\right)  O
+=  O
+\int  O
+_  O
+0  O
+^  O
+x  O
+\operatorname  O
+sech  O
+t  O
+d  O
+t  O

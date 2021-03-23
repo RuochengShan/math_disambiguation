@@ -1,0 +1,15 @@
+S  O
+_  O
+n  O
+\left(  O
+x  O
+\right)  O
+=  O
+U  O
+_  O
+n  O
+\left(  O
+1  O
+2  O
+x  O
+\right)  O

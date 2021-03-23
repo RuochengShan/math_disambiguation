@@ -1,0 +1,16 @@
+a  O
+_  O
+2  O
+n  O
+\left(  O
+-  O
+q  O
+\right)  O
+=  O
+a  O
+_  O
+2  O
+n  O
+\left(  O
+q  O
+\right)  O

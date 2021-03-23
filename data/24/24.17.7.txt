@@ -1,0 +1,15 @@
+M  O
+_  O
+n  O
+(  O
+x  O
+)  O
+=  O
+O  O
+\left(  O
+|  O
+x  O
+|  O
+^  O
+\gamma  O
+\right)  O

@@ -1,0 +1,17 @@
+\partial  O
+^  O
+2  O
+f  O
+\partial  O
+x  O
+\partial  O
+y  O
+=  O
+\partial  O
+^  O
+2  O
+f  O
+\partial  O
+y  O
+\partial  O
+x  O

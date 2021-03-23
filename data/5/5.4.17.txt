@@ -1,0 +1,16 @@
+\Im  O
+\psi  O
+\left(  O
+1  O
+2  O
++  O
+iy  O
+\right)  O
+=  O
+\pi  O
+2  O
+\tanh  O
+\left(  O
+\pi  O
+y  O
+\right)  O

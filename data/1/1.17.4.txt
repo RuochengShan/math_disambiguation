@@ -1,0 +1,16 @@
+\lim  O
+_  O
+n  O
+\to  O
+\infty  O
+\delta  O
+_  O
+n  O
+\left(  O
+x  O
+\right)  O
+=  O
+\delta  O
+\left(  O
+x  O
+\right)  O

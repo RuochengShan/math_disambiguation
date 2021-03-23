@@ -1,0 +1,16 @@
+\zeta  O
+_  O
+1  O
+=  O
+\left(  O
+1  O
+-  O
+\sqrt  O
+z  O
+1  O
++  O
+\sqrt  O
+z  O
+\right)  O
+^  O
+2  O

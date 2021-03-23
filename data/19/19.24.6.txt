@@ -1,0 +1,17 @@
+a  O
+_  O
+n  O
++  O
+1  O
+=  O
+(  O
+a  O
+_  O
+n  O
++  O
+g  O
+_  O
+n  O
+)  O
+/  O
+2  O

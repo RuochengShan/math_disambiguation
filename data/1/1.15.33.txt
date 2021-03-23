@@ -1,0 +1,16 @@
+P  O
+(  O
+x  O
+,  O
+y  O
+)  O
+=  O
+2  O
+y  O
+x  O
+^  O
+2  O
++  O
+y  O
+^  O
+2  O

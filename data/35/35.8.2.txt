@@ -1,0 +1,17 @@
+_  O
+0  O
+F  O
+_  O
+0  O
+\left(  O
+-  O
+\atop  O
+-  O
+;  O
+T  O
+\right)  O
+=  O
+etr  O
+\left(  O
+T  O
+\right)  O

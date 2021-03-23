@@ -1,0 +1,21 @@
+L  O
+\left(  O
+-  O
+2  O
+n  O
+-  O
+1  O
+,  O
+\chi  O
+\right)  O
+=  O
+0  O
+ if   O
+\chi  O
+(  O
+-  O
+1  O
+)  O
+=  O
+-  O
+1  O

@@ -1,0 +1,17 @@
+s  O
+(  O
+t  O
+)  O
+=  O
+\sqrt  O
+t  O
++  O
+x  O
+\sqrt  O
+t  O
++  O
+y  O
+\sqrt  O
+t  O
++  O
+z  O

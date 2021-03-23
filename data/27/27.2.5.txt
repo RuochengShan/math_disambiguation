@@ -1,0 +1,16 @@
+\left\lfloor  O
+1  O
+n  O
+\right\rfloor  O
+=  O
+1  O
+,  O
+n  O
+=  O
+1  O
+,  O
+0  O
+,  O
+n  O
+>  O
+1  O

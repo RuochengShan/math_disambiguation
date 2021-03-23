@@ -1,0 +1,17 @@
+li  O
+\left(  O
+x  O
+\right)  O
+-  O
+\pi  O
+(  O
+x  O
+)  O
+=  O
+O  O
+\left(  O
+\sqrt  O
+x  O
+\ln  O
+x  O
+\right)  O

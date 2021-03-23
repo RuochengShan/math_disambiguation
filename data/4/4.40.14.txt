@@ -1,0 +1,15 @@
+\int  O
+\operatorname  O
+arccsch  O
+x  O
+d  O
+x  O
+=  O
+x  O
+\operatorname  O
+arccsch  O
+x  O
++  O
+\operatorname  O
+arcsinh  O
+x  O

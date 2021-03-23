@@ -1,0 +1,16 @@
+\zeta  O
+=  O
+\pm  O
+\sqrt  O
+x  O
+\mu  O
+-  O
+2  O
+-  O
+2  O
+\ln  O
+\left(  O
+x  O
+2  O
+\mu  O
+\right)  O

@@ -1,0 +1,16 @@
+A  O
+_  O
+\pm  O
+(  O
+\chi  O
+)  O
+=  O
+C  O
+\left(  O
+\chi  O
+\right)  O
+\pm  O
+S  O
+\left(  O
+\chi  O
+\right)  O

@@ -1,0 +1,17 @@
+\nabla  O
+^  O
+2  O
+\psi  O
+=  O
+1  O
+c  O
+^  O
+2  O
+\partial  O
+^  O
+2  O
+\psi  O
+\partial  O
+t  O
+^  O
+2  O

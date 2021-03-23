@@ -1,0 +1,15 @@
+m  O
+=  O
+a  O
+_  O
+1  O
++  O
+a  O
+_  O
+2  O
++  O
+\cdots  O
++  O
+a  O
+_  O
+n  O

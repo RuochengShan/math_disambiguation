@@ -1,0 +1,17 @@
+\alpha  O
+=  O
+\beta  O
+>  O
+-  O
+1  O
+2  O
+,  O
+m  O
+=  O
+1  O
+,  O
+2  O
+,  O
+\dots  O
+,  O
+n  O

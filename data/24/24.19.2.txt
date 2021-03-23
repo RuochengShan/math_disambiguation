@@ -1,0 +1,15 @@
+D  O
+_  O
+2  O
+n  O
+=  O
+\prod  O
+_  O
+p  O
+-  O
+1  O
+\mathbin  O
+|  O
+2  O
+n  O
+p  O

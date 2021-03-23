@@ -1,0 +1,17 @@
+\partial  O
+^  O
+2  O
+\Psi  O
+\partial  O
+z  O
+\partial  O
+\lambda  O
+=  O
+\partial  O
+^  O
+2  O
+\Psi  O
+\partial  O
+\lambda  O
+\partial  O
+z  O

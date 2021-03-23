@@ -1,0 +1,15 @@
+P  O
+_  O
+1  O
+\left(  O
+x  O
+\right)  O
+=  O
+P  O
+_  O
+1  O
+\left(  O
+x  O
+\right)  O
+=  O
+x  O

@@ -1,0 +1,15 @@
+w  O
+=  O
+\cosh  O
+z  O
+\cos  O
+t  O
+\cos  O
+\alpha  O
++  O
+\sinh  O
+z  O
+\sin  O
+t  O
+\sin  O
+\alpha  O

@@ -1,0 +1,16 @@
+\kappa  O
+-  O
+1  O
+2  O
+n  O
+-  O
+1  O
+2  O
+=  O
+0  O
+,  O
+1  O
+,  O
+2  O
+,  O
+\dots  O

@@ -1,0 +1,17 @@
+\sin  O
+\psi  O
+_  O
+1  O
+=  O
+(  O
+1  O
++  O
+k  O
+^  O
+\prime  O
+)  O
+\sin  O
+\phi  O
+1  O
++  O
+\Delta  O

@@ -1,0 +1,16 @@
+\operatorname  O
+log  O
+_  O
+a  O
+z  O
+=  O
+\operatorname  O
+log  O
+_  O
+b  O
+z  O
+\operatorname  O
+log  O
+_  O
+b  O
+a  O

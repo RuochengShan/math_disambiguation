@@ -1,0 +1,15 @@
+\sinh  O
+z  O
+2  O
+=  O
+\left(  O
+\cosh  O
+z  O
+-  O
+1  O
+2  O
+\right)  O
+^  O
+1  O
+/  O
+2  O

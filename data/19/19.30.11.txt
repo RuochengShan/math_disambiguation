@@ -1,0 +1,16 @@
+q  O
+=  O
+2  O
+a  O
+^  O
+2  O
+/  O
+r  O
+^  O
+2  O
+=  O
+\sec  O
+\left(  O
+2  O
+\theta  O
+\right)  O

@@ -1,0 +1,16 @@
+\tau  O
+_  O
+a  O
+,  O
+b  O
+(  O
+\theta  O
+)  O
+=  O
+a  O
+\cos  O
+\theta  O
++  O
+b  O
+\sin  O
+\theta  O

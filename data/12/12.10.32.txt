@@ -1,0 +1,15 @@
+\tau  O
+=  O
+1  O
+2  O
+\left(  O
+t  O
+\sqrt  O
+t  O
+^  O
+2  O
+-  O
+1  O
+-  O
+1  O
+\right)  O

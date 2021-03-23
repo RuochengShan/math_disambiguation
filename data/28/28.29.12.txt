@@ -1,0 +1,51 @@
+w  O
+_  O
+\tiny I  O
+(  O
+\pi  O
+,  O
+\lambda  O
+)  O
+w  O
+_  O
+\tiny II  O
+(  O
+\pi  O
+,  O
+\lambda  O
+)  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny I  O
+(  O
+\pi  O
+,  O
+\lambda  O
+)  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny II  O
+(  O
+\pi  O
+,  O
+\lambda  O
+)  O
+=  O
+(  O
+-  O
+1  O
+)  O
+^  O
+\nu  O
+0  O
+0  O
+(  O
+-  O
+1  O
+)  O
+^  O
+\nu  O

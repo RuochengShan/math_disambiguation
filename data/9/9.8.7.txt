@@ -1,0 +1,21 @@
+N  O
+\left(  O
+x  O
+\right)  O
+=  O
+\sqrt  O
+Ai  O
+'  O
+^  O
+2  O
+\left(  O
+x  O
+\right)  O
++  O
+Bi  O
+'  O
+^  O
+2  O
+\left (  O
+x  O
+\right)  O

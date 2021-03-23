@@ -1,0 +1,16 @@
+\lambda  O
+=  O
+\sqrt  O
+x  O
+\sqrt  O
+y  O
++  O
+\sqrt  O
+y  O
+\sqrt  O
+z  O
++  O
+\sqrt  O
+z  O
+\sqrt  O
+x  O

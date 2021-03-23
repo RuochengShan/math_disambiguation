@@ -1,0 +1,16 @@
+\partial  O
+\partial  O
+x  O
+=  O
+\cos  O
+\phi  O
+\partial  O
+\partial  O
+r  O
+-  O
+\sin  O
+\phi  O
+r  O
+\partial  O
+\partial  O
+\phi  O

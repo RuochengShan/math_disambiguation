@@ -1,0 +1,15 @@
+z  O
+=  O
+2  O
+^  O
+-  O
+2  O
+/  O
+3  O
+\epsilon  O
+\zeta  O
+-  O
+\epsilon  O
+^  O
+-  O
+3  O

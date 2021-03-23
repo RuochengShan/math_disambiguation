@@ -1,0 +1,16 @@
+\cos  O
+z  O
+2  O
+=  O
+\pm  O
+\left(  O
+1  O
++  O
+\cos  O
+z  O
+2  O
+\right)  O
+^  O
+1  O
+/  O
+2  O

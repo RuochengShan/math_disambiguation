@@ -1,0 +1,16 @@
+\lambda  O
+_  O
+n  O
+,  O
+\;  O
+n  O
+=  O
+0  O
+,  O
+1  O
+,  O
+2  O
+,  O
+\dots  O
+,  O
+ with $\bigtriangleup(\lambda_{n})=2$  O

@@ -1,0 +1,15 @@
+n  O
+(  O
+a  O
+,  O
+b  O
+)  O
+=  O
+p  O
+(  O
+b  O
+-  O
+a  O
+,  O
+b  O
+)  O

@@ -1,0 +1,15 @@
+\ln  O
+\left(  O
+x  O
+\pm  O
+i  O
+0  O
+\right)  O
+=  O
+\ln  O
+|  O
+x  O
+|  O
+\pm  O
+i  O
+\pi  O

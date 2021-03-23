@@ -1,0 +1,17 @@
+\phi  O
+_  O
+-  O
+\nu  O
+\left(  O
+x  O
+\right)  O
+=  O
+\phi  O
+_  O
+\nu  O
+\left(  O
+x  O
+\right)  O
++  O
+\nu  O
+\pi  O

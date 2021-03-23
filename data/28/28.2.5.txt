@@ -1,0 +1,49 @@
+w  O
+_  O
+\tiny I  O
+(  O
+0  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+_  O
+\tiny II  O
+(  O
+0  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny I  O
+(  O
+0  O
+;  O
+a  O
+,  O
+q  O
+)  O
+w  O
+^  O
+\prime  O
+_  O
+\tiny II  O
+(  O
+0  O
+;  O
+a  O
+,  O
+q  O
+)  O
+=  O
+1  O
+0  O
+0  O
+1  O

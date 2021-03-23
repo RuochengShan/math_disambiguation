@@ -1,0 +1,16 @@
+e  O
+^  O
+\pm  O
+\pi  O
+i  O
+/  O
+4  O
+=  O
+1  O
+\sqrt  O
+2  O
+\pm  O
+i  O
+1  O
+\sqrt  O
+2  O

@@ -1,0 +1,16 @@
+r  O
+<  O
+0  O
+and  O
+a  O
+_  O
+1  O
+a  O
+_  O
+2  O
+\dots  O
+a  O
+_  O
+n  O
+=  O
+0  O

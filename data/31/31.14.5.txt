@@ -1,0 +1,16 @@
+\gamma  O
+_  O
+j  O
+=  O
+\gamma  O
+_  O
+j  O
+2  O
+\left(  O
+\gamma  O
+_  O
+j  O
+2  O
+-  O
+1  O
+\right)  O

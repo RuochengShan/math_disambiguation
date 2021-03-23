@@ -1,0 +1,17 @@
+\eta  O
+=  O
+1  O
+2  O
+\operatorname  O
+arccos  O
+t  O
+-  O
+1  O
+2  O
+t  O
+\sqrt  O
+1  O
+-  O
+t  O
+^  O
+2  O

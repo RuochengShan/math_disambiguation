@@ -1,0 +1,20 @@
+\phi  O
+(  O
+x  O
+)  O
+=  O
+\exp  O
+\cdots  O
+\exp  O
+_  O
+\left\lfloor  O
+x  O
+\right\rfloor  O
+ times  O
+(  O
+x  O
+-  O
+\left\lfloor  O
+x  O
+\right\rfloor  O
+)  O

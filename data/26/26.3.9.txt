@@ -1,0 +1,17 @@
+\genfrac  O
+(  O
+)  O
+0.0  O
+pt  O
+n  O
+0  O
+=  O
+\genfrac  O
+(  O
+)  O
+0.0  O
+pt  O
+n  O
+n  O
+=  O
+1  O

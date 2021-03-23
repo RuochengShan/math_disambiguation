@@ -1,0 +1,16 @@
+\psi  O
+\left(  O
+x  O
+\right)  O
+=  O
+x  O
++  O
+O  O
+\left(  O
+x  O
+^  O
+1  O
+2  O
++  O
+\epsilon  O
+\right)  O

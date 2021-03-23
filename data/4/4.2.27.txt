@@ -1,0 +1,19 @@
+z  O
+^  O
+a  O
+=  O
+z  O
+\cdot  O
+z  O
+\cdots  O
+z  O
+_  O
+n  O
+ times  O
+=  O
+1  O
+/  O
+z  O
+^  O
+-  O
+a  O

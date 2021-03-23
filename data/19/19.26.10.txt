@@ -1,0 +1,17 @@
+\delta  O
+=  O
+(  O
+p  O
+-  O
+x  O
+)  O
+(  O
+p  O
+-  O
+y  O
+)  O
+(  O
+p  O
+-  O
+z  O
+)  O

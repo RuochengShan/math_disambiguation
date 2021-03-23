@@ -1,0 +1,16 @@
+\operatorname  O
+erfc  O
+z  O
+=  O
+z  O
+\sqrt  O
+\pi  O
+E  O
+_  O
+1  O
+2  O
+\left(  O
+z  O
+^  O
+2  O
+\right)  O

@@ -1,0 +1,17 @@
+a  O
+^  O
+\prime  O
+_  O
+n  O
+=  O
+d  O
+_  O
+n  O
+d  O
+_  O
+n  O
+-  O
+1  O
+a  O
+_  O
+n  O

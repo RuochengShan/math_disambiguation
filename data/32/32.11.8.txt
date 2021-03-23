@@ -1,0 +1,17 @@
+d  O
+^  O
+2  O
+=  O
+-  O
+\pi  O
+^  O
+-  O
+1  O
+\ln  O
+\left(  O
+1  O
+-  O
+k  O
+^  O
+2  O
+\right)  O

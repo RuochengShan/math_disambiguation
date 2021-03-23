@@ -1,0 +1,24 @@
+\partial  O
+(  O
+x  O
+,  O
+y  O
+,  O
+z  O
+)  O
+\partial  O
+(  O
+\rho  O
+,  O
+\theta  O
+,  O
+\phi  O
+)  O
+=  O
+\rho  O
+^  O
+2  O
+\sin  O
+\theta  O
+\quad  O
+(spherical coordinates)  O

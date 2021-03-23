@@ -1,0 +1,15 @@
+\zeta  O
+\left(  O
+s  O
+,  O
+a  O
+\right)  O
+=  O
+\Phi  O
+\left(  O
+1  O
+,  O
+s  O
+,  O
+a  O
+\right)  O

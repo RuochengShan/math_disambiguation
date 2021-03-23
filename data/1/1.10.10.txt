@@ -1,0 +1,23 @@
+1  O
+2  O
+\pi  O
+i  O
+\int  O
+_  O
+C  O
+zf  O
+^  O
+\prime  O
+(  O
+z  O
+)  O
+f  O
+(  O
+z  O
+)  O
+d  O
+z  O
+=  O
+(sum of locations of zeros)  O
+-  O
+(sum of locations of poles)  O

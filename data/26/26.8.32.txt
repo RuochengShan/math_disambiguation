@@ -1,0 +1,17 @@
+\Delta  O
+f  O
+(  O
+x  O
+)  O
+=  O
+f  O
+(  O
+x  O
++  O
+1  O
+)  O
+-  O
+f  O
+(  O
+x  O
+)  O

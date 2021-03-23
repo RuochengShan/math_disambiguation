@@ -1,0 +1,16 @@
+Y  O
+=  O
+1  O
+2  O
++  O
+\left(  O
+(  O
+x  O
++  O
+y  O
+)  O
+/  O
+z  O
+^  O
+2  O
+\right)  O

@@ -1,0 +1,16 @@
+2  O
+3  O
+(  O
+-  O
+\zeta  O
+)  O
+^  O
+3  O
+2  O
+=  O
+\eta  O
+,  O
+\quad  O
+$-1<t\leq 1$  O
+,  O
+($\zeta \leq 0$)  O

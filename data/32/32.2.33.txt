@@ -1,0 +1,17 @@
+\alpha  O
+=  O
+1  O
+4  O
+a  O
+\epsilon  O
+^  O
+-  O
+1  O
++  O
+1  O
+8  O
+c  O
+\epsilon  O
+^  O
+-  O
+2  O

@@ -1,0 +1,16 @@
+\nu  O
+=  O
+1  O
+/  O
+(  O
+-  O
+\epsilon  O
+)  O
+^  O
+1  O
+/  O
+2  O
+(  O
+>  O
+0  O
+)  O

@@ -1,0 +1,45 @@
+n  O
+!  O
+!  O
+=  O
+2  O
+^  O
+1  O
+2  O
+n  O
+\Gamma  O
+\left(  O
+1  O
+2  O
+n  O
++  O
+1  O
+\right)  O
+,  O
+n  O
+ even  O
+,  O
+\pi  O
+^  O
+-  O
+1  O
+2  O
+2  O
+^  O
+1  O
+2  O
+n  O
++  O
+1  O
+2  O
+\Gamma  O
+\left(  O
+1  O
+2  O
+n  O
++  O
+1  O
+\right )  O
+,  O
+n  O
+ odd  O

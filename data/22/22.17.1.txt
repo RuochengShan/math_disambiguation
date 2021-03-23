@@ -1,0 +1,16 @@
+\operatorname  O
+pq  O
+\left(  O
+z  O
+,  O
+k  O
+\right)  O
+=  O
+\operatorname  O
+pq  O
+\left(  O
+z  O
+,  O
+-  O
+k  O
+\right)  O

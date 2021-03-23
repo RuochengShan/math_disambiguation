@@ -1,0 +1,16 @@
+\left\langle  O
+\Lambda  O
+^  O
+\prime  O
+,  O
+\phi  O
+\right\rangle  O
+=  O
+-  O
+\left\langle  O
+\Lambda  O
+,  O
+\phi  O
+^  O
+\prime  O
+\right\rangle  O

@@ -1,0 +1,15 @@
+w  O
+=  O
+\sqrt  O
+u  O
+^  O
+2  O
++  O
+v  O
+^  O
+2  O
+-  O
+2  O
+uv  O
+\cos  O
+\alpha  O

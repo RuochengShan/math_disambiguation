@@ -1,0 +1,15 @@
+\Gamma  O
+\left(  O
+2  O
+3  O
+\right)  O
+=  O
+1.35411  O
+\;  O
+79394  O
+\;  O
+26400  O
+\;  O
+41694  O
+\;  O
+\dots  O

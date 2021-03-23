@@ -1,0 +1,15 @@
+a  O
+_  O
+3  O
+=  O
+h  O
+^  O
+2  O
++  O
+a  O
+^  O
+2  O
++  O
+b  O
+^  O
+2  O

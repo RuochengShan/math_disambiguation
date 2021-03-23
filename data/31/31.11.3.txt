@@ -1,0 +1,15 @@
+\lambda  O
++  O
+\mu  O
+=  O
+\gamma  O
++  O
+\delta  O
+-  O
+1  O
+=  O
+\alpha  O
++  O
+\beta  O
+-  O
+\epsilon  O

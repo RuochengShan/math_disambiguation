@@ -1,0 +1,17 @@
+\sec  O
+\left(  O
+x  O
++  O
+iy  O
+\right)  O
+=  O
+\csc  O
+\left(  O
+x  O
++  O
+1  O
+2  O
+\pi  O
++  O
+iy  O
+\right)  O

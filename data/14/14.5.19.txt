@@ -1,0 +1,26 @@
+P  O
+^  O
+-  O
+\nu  O
+_  O
+\nu  O
+\left(  O
+\cosh  O
+\xi  O
+\right)  O
+=  O
+(  O
+\sinh  O
+\xi  O
+)  O
+^  O
+\nu  O
+2  O
+^  O
+\nu  O
+\Gamma  O
+\left (  O
+\nu  O
++  O
+1  O
+\right)  O

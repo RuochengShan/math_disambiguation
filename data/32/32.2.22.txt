@@ -1,0 +1,16 @@
+f  O
+_  O
+2  O
+(  O
+z  O
+)  O
++  O
+f  O
+_  O
+4  O
+(  O
+z  O
+)  O
+=  O
+\sqrt  O
+z  O

@@ -1,0 +1,20 @@
+\Psi  O
+^  O
+(  O
+H  O
+)  O
+\left(  O
+0  O
+\right)  O
+=  O
+1  O
+3  O
+\Gamma  O
+^  O
+2  O
+\left (  O
+1  O
+3  O
+\right)  O
+=  O
+2.39224  O

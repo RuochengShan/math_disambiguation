@@ -1,0 +1,17 @@
+F  O
+(  O
+\xi  O
+)  O
+=  O
+2  O
+\xi  O
+-  O
+1  O
+\xi  O
+^  O
+2  O
+f  O
+\left(  O
+1  O
+\xi  O
+\right)  O

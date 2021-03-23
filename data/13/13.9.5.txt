@@ -1,0 +1,16 @@
+p  O
+(  O
+a  O
+,  O
+b  O
+)  O
+=  O
+\left\lceil  O
+-  O
+a  O
+\right\rceil  O
+-  O
+\left\lceil  O
+-  O
+b  O
+\right\rceil  O

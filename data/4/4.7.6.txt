@@ -1,0 +1,16 @@
+w  O
+(  O
+z  O
+)  O
+=  O
+\operatorname  O
+Ln  O
+\left(  O
+f  O
+(  O
+z  O
+)  O
+\right)  O
++  O
+\hbox  O
+constant  O

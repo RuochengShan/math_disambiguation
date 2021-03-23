@@ -1,0 +1,15 @@
+A  O
+_  O
+-  O
+1  O
+^  O
+2  O
+=  O
+1  O
+2  O
+t  O
+(  O
+t  O
+-  O
+1  O
+)  O

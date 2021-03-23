@@ -1,0 +1,24 @@
+g  O
+_  O
+k  O
+=  O
+1  O
+,  O
+$k=0,n$  O
+,  O
+2  O
+,  O
+otherwise  O
+,  O
+\quad  O
+b  O
+_  O
+j  O
+=  O
+1  O
+,  O
+$j=\frac{1}{2 }n$  O
+,  O
+2  O
+,  O
+otherwise  O

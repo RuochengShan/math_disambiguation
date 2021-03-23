@@ -1,0 +1,25 @@
+M  O
+\left(  O
+x  O
+\right)  O
+N  O
+\left(  O
+x  O
+\right)  O
+\sin  O
+\left(  O
+\theta  O
+\left(  O
+x  O
+\right)  O
+-  O
+\phi  O
+\left(  O
+x  O
+\right )  O
+\right)  O
+=  O
+\pi  O
+^  O
+-  O
+1  O

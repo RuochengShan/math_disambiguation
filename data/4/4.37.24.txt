@@ -1,0 +1,15 @@
+\operatorname  O
+arctanh  O
+z  O
+=  O
+1  O
+2  O
+\ln  O
+\left(  O
+1  O
++  O
+z  O
+1  O
+-  O
+z  O
+\right)  O

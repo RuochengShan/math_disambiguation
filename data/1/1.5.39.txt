@@ -1,0 +1,16 @@
+\partial  O
+(  O
+x  O
+,  O
+y  O
+)  O
+\partial  O
+(  O
+r  O
+,  O
+\phi  O
+)  O
+=  O
+r  O
+\quad  O
+(polar coordinates)  O

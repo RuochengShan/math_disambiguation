@@ -1,0 +1,17 @@
+\partial  O
+A  O
+\partial  O
+z  O
+-  O
+\partial  O
+B  O
+\partial  O
+\lambda  O
++  O
+A  O
+B  O
+-  O
+B  O
+A  O
+=  O
+0  O

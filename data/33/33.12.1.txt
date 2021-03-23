@@ -1,0 +1,17 @@
+x  O
+=  O
+(  O
+2  O
+\eta  O
+-  O
+\rho  O
+)  O
+/  O
+(  O
+2  O
+\eta  O
+)  O
+^  O
+1  O
+/  O
+3  O

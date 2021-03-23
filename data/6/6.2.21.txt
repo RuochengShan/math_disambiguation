@@ -1,0 +1,15 @@
+d  O
+g  O
+\left(  O
+z  O
+\right)  O
+d  O
+z  O
+=  O
+f  O
+\left(  O
+z  O
+\right )  O
+-  O
+1  O
+z  O

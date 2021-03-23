@@ -1,0 +1,17 @@
+\partial  O
+^  O
+2  O
+\partial  O
+t  O
+^  O
+2  O
+\Phi  O
+_  O
+K  O
+\left(  O
+t  O
+;  O
+x  O
+\right)  O
+=  O
+0  O

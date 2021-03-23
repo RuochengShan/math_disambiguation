@@ -1,0 +1,16 @@
+\sin  O
+a  O
+\cos  O
+B  O
+=  O
+\cos  O
+b  O
+\sin  O
+c  O
+-  O
+\sin  O
+b  O
+\cos  O
+c  O
+\cos  O
+A  O

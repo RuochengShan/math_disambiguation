@@ -1,0 +1,16 @@
+c  O
+^  O
+2  O
+=  O
+a  O
+^  O
+2  O
++  O
+b  O
+^  O
+2  O
+-  O
+2  O
+ab  O
+\cos  O
+C  O

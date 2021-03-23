@@ -1,0 +1,19 @@
+\sum  O
+_  O
+d  O
+\mathbin  O
+|  O
+n  O
+\lambda  O
+\left(  O
+d  O
+\right)  O
+=  O
+1  O
+,  O
+n  O
+ is a square  O
+,  O
+0  O
+,  O
+otherwise  O

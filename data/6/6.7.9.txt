@@ -1,0 +1,27 @@
+si  O
+\left(  O
+z  O
+\right)  O
+=  O
+-  O
+\int  O
+_  O
+0  O
+^  O
+\pi  O
+/  O
+2  O
+e  O
+^  O
+-  O
+z  O
+\cos  O
+t  O
+\cos  O
+\left(  O
+z  O
+\sin  O
+t  O
+\right )  O
+d  O
+t  O

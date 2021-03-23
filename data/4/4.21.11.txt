@@ -1,0 +1,16 @@
+\cot  O
+u  O
+\pm  O
+\cot  O
+v  O
+=  O
+\sin  O
+\left(  O
+v  O
+\pm  O
+u  O
+\right)  O
+\sin  O
+u  O
+\sin  O
+v  O

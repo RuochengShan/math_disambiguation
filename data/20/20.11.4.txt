@@ -1,0 +1,16 @@
+f  O
+(  O
+a  O
+,  O
+b  O
+)  O
+=  O
+\theta  O
+_  O
+3  O
+\left(  O
+z  O
+\middle  O
+|  O
+\tau  O
+\right)  O

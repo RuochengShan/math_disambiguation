@@ -1,0 +1,23 @@
+\int  O
+B  O
+_  O
+n  O
+\left(  O
+t  O
+\right)  O
+d  O
+t  O
+=  O
+B  O
+_  O
+n  O
++  O
+1  O
+\left(  O
+t  O
+\right)  O
+n  O
++  O
+1  O
++  O
+ const.  O

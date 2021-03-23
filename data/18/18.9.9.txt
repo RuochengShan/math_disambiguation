@@ -1,0 +1,26 @@
+T  O
+_  O
+n  O
+\left(  O
+x  O
+\right)  O
+=  O
+1  O
+2  O
+\left(  O
+U  O
+_  O
+n  O
+\left(  O
+x  O
+\right)  O
+-  O
+U  O
+_  O
+n  O
+-  O
+2  O
+\left(  O
+x  O
+\right )  O
+\right)  O

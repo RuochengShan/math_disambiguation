@@ -1,0 +1,15 @@
+q  O
+_  O
+1  O
+^  O
+n  O
+=  O
+c  O
+_  O
+n  O
++  O
+1  O
+/  O
+c  O
+_  O
+n  O

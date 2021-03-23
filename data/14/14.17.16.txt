@@ -1,0 +1,17 @@
+l  O
+,  O
+m  O
+,  O
+n  O
+=  O
+0  O
+,  O
+1  O
+,  O
+2  O
+,  O
+\dots  O
+,  O
+l  O
+\neq  O
+n  O

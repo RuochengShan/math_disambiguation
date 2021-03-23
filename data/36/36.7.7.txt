@@ -1,0 +1,15 @@
+n  O
+_  O
+\max  O
+(  O
+m  O
+)  O
+=  O
+\left\lfloor  O
+256  O
+13  O
+m  O
+-  O
+269  O
+52  O
+\right\rfloor  O

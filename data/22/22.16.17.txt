@@ -1,0 +1,23 @@
+E  O
+\left(  O
+x  O
+,  O
+k  O
+\right)  O
+=  O
+\int  O
+_  O
+0  O
+^  O
+x  O
+\operatorname  O
+dn  O
+^  O
+2  O
+\left(  O
+t  O
+,  O
+k  O
+\right )  O
+d  O
+t  O

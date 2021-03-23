@@ -1,0 +1,17 @@
+p  O
+_  O
+0  O
+^  O
+2  O
+=  O
+1  O
+-  O
+(  O
+k  O
+^  O
+2  O
+/  O
+\alpha  O
+^  O
+2  O
+)  O

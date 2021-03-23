@@ -1,0 +1,16 @@
+P  O
+^  O
+(  O
+\lambda  O
+)  O
+_  O
+0  O
+\left(  O
+x  O
+;  O
+a  O
+,  O
+b  O
+\right)  O
+=  O
+1  O

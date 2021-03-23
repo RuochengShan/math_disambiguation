@@ -1,0 +1,17 @@
+G  O
+_  O
+s  O
+(  O
+x  O
+)  O
+=  O
+Li  O
+_  O
+s  O
++  O
+1  O
+\left(  O
+e  O
+^  O
+x  O
+\right)  O

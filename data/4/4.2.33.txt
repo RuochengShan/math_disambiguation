@@ -1,0 +1,15 @@
+e  O
+^  O
+z  O
+=  O
+(  O
+\exp  O
+z  O
+)  O
+\exp  O
+\left(  O
+2  O
+kz  O
+\pi  O
+i  O
+\right)  O

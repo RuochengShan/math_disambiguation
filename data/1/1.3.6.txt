@@ -1,0 +1,17 @@
+\det  O
+[  O
+a  O
+_  O
+jk  O
+]  O
+^  O
+-  O
+1  O
+=  O
+1  O
+\det  O
+[  O
+a  O
+_  O
+jk  O
+]  O

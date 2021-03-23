@@ -1,0 +1,16 @@
+M  O
+\left(  O
+1  O
+,  O
+2  O
+,  O
+2  O
+z  O
+\right)  O
+=  O
+e  O
+^  O
+z  O
+z  O
+\sinh  O
+z  O

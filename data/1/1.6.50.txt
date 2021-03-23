@@ -1,0 +1,17 @@
+\|  O
+T  O
+_  O
+\theta  O
+\times  O
+T  O
+_  O
+\phi  O
+\|  O
+=  O
+\rho  O
+^  O
+2  O
+\left|  O
+\sin  O
+\theta  O
+\right|  O
