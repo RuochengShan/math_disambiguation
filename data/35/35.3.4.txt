@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -22,7 +22,7 @@ j  O
 1  O
 ^  O
 m  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

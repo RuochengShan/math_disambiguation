@@ -18,7 +18,7 @@ m  O
 q  O
 ^  O
 m  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -31,7 +31,7 @@ m  O
 ^  O
 2  O
 m  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

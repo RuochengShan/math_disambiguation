@@ -1,0 +1,13 @@
+1. alter text file code
+2. search by token
+3. label rule
+
+
+labels -
+    Gamma is "\Gamma"
+
+
+Rules -
+    multivariate variable gamma function: [\Gamma, _, m]
+    q gamma function: [\Gamma, _, q]
+    incomplete gamma function : [\Gamma, "^" or no "^", "\left(", three element a,b, "\right"

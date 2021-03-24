@@ -4,7 +4,7 @@ g  O
 )  O
 =  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

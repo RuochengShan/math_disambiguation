@@ -9,7 +9,7 @@ H  O
 =  O
 1  O
 3  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left (  O

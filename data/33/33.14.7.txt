@@ -7,7 +7,7 @@ h  O
 r  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \ell  O
 +  O
@@ -47,7 +47,7 @@ S  O
 ,  O
 r  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \ell  O
 +  O

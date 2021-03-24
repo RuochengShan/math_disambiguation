@@ -55,7 +55,7 @@ s  O
 k  O
 +  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 \right)  O

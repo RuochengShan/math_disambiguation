@@ -46,7 +46,7 @@ d  O
 +  O
 \alpha  O
 )  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -58,7 +58,7 @@ d  O
 -  O
 1  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

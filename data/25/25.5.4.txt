@@ -13,7 +13,7 @@ s  O
 -  O
 s  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 +  O

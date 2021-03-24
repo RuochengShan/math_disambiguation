@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 -  O
@@ -35,7 +35,7 @@ _  O
 x  O
 ^  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 \right)  O
@@ -69,7 +69,7 @@ x  O
 \mu  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

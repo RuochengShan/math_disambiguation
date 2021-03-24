@@ -22,7 +22,7 @@ k  O
 k  O
 +  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O
@@ -41,7 +41,7 @@ z  O
 k  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 \nu  O
 +  O

@@ -9,7 +9,7 @@ h  O
 1  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

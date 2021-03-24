@@ -15,7 +15,7 @@ n  O
 \left(  O
 x  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
@@ -44,7 +44,7 @@ n  O
 \left(  O
 y  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
@@ -61,7 +61,7 @@ y  O
 \mu  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

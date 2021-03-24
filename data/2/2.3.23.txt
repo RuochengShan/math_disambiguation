@@ -41,7 +41,7 @@ i  O
 2  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 +  O

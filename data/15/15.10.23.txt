@@ -10,7 +10,7 @@ e  O
 a  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -18,7 +18,7 @@ b  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 -  O
@@ -26,13 +26,13 @@ a  O
 -  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 -  O
@@ -54,7 +54,7 @@ b  O
 )  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -62,7 +62,7 @@ b  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
@@ -70,11 +70,11 @@ b  O
 -  O
 c  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

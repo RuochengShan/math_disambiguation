@@ -3,7 +3,7 @@ e  O
 -  O
 \pi  O
 ia  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -17,7 +17,7 @@ e  O
 ^  O
 \pi  O
 ia  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -32,7 +32,7 @@ i  O
 2  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

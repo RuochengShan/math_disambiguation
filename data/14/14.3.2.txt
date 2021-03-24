@@ -53,7 +53,7 @@ F  O
 x  O
 \right)  O
 -  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -61,7 +61,7 @@ x  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

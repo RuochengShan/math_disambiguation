@@ -27,7 +27,7 @@ i  O
 /  O
 4  O
 \left(  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 3  O

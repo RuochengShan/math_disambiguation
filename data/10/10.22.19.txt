@@ -36,7 +36,7 @@ d  O
 2  O
 ^  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

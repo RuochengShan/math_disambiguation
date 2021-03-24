@@ -32,7 +32,7 @@ z  O
 d  O
 \theta  O
 =  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -50,7 +50,7 @@ z  O
 ^  O
 \mu  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

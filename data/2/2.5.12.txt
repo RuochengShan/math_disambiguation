@@ -7,7 +7,7 @@ n  O
 n  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -15,7 +15,7 @@ n  O
 2  O
 n  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O
@@ -25,7 +25,7 @@ n  O
 2  O
 n  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -35,7 +35,7 @@ n  O
 2  O
 n  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 \right)  O

@@ -10,7 +10,7 @@ z  O
 ^  O
 -  O
 a  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -30,7 +30,7 @@ z  O
 a  O
 -  O
 n  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 +  O

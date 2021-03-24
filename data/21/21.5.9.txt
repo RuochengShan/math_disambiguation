@@ -77,7 +77,7 @@ D  O
 ,  O
 \beta  O
 ,  O
-\Gamma  O
+\Gamma  gamma_function
 )  O
 \sqrt  O
 \det  O

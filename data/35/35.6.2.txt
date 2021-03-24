@@ -8,7 +8,7 @@ T  O
 \right)  O
 =  O
 1  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O

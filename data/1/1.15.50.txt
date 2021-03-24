@@ -15,7 +15,7 @@ k  O
 0  O
 k  O
 !  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

@@ -15,13 +15,13 @@ e  O
 c  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

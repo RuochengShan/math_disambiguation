@@ -19,7 +19,7 @@ a  O
 \right)  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 +  O

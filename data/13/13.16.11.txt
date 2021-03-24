@@ -25,7 +25,7 @@ i  O
 ^  O
 i  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -34,7 +34,7 @@ i  O
 +  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -43,14 +43,14 @@ t  O
 +  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 \kappa  O
 -  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -59,7 +59,7 @@ t  O
 -  O
 \kappa  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

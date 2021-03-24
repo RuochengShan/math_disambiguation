@@ -4,14 +4,14 @@ a  O
 _  O
 n  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 n  O
 \right)  O
 /  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

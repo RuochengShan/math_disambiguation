@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 +  O
@@ -8,7 +8,7 @@ z  O
 \right)  O
 =  O
 a  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O

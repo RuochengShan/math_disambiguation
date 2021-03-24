@@ -19,17 +19,17 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 \lambda  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
 \lambda  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 -  O
@@ -37,11 +37,11 @@ b  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

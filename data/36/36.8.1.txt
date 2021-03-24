@@ -40,7 +40,7 @@ K  O
 2  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

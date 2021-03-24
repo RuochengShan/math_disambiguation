@@ -40,7 +40,7 @@ x  O
 ^  O
 n  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 n  O
@@ -62,7 +62,7 @@ y  O
 n  O
 )  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 \right)  O

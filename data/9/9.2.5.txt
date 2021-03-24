@@ -9,7 +9,7 @@ Bi  O
 1  O
 /  O
 6  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 3  O

@@ -47,7 +47,7 @@ k  O
 \pm  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

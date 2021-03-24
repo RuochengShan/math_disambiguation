@@ -7,7 +7,7 @@ n  O
 1  O
 2  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -32,7 +32,7 @@ n  O
 +  O
 1  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

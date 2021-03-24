@@ -5,7 +5,7 @@
 \pi  O
 \right)  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O
@@ -24,7 +24,7 @@ x  O
 \right)  O
 =  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -46,7 +46,7 @@ x  O
 \mu  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

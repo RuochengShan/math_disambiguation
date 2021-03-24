@@ -5,7 +5,7 @@ n  O
 =  O
 \sqrt  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -14,7 +14,7 @@ n  O
 1  O
 \right)  O
 /  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

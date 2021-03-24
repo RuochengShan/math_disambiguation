@@ -16,7 +16,7 @@ e  O
 /  O
 2  O
 |  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \ell  O
 +  O

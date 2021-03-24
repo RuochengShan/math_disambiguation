@@ -17,14 +17,14 @@ b  O
 )  O
 =  O
 |  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 i  O
 x  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 +  O

@@ -33,13 +33,13 @@ _  O
 q  O
 t  O
 =  O
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O
 \alpha  O
 \right)  O
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O
@@ -69,7 +69,7 @@ q  O
 \right)  O
 _  O
 \infty  O
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O

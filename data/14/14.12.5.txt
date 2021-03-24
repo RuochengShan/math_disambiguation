@@ -20,7 +20,7 @@ x  O
 \mu  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

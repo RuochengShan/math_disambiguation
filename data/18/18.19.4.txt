@@ -4,7 +4,7 @@ n  O
 =  O
 2  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -12,7 +12,7 @@ a  O
 +  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -21,7 +21,7 @@ b  O
 b  O
 \right)  O
 |  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -46,7 +46,7 @@ b  O
 -  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

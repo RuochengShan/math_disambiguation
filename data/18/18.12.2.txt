@@ -75,7 +75,7 @@ n  O
 \left(  O
 x  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -83,7 +83,7 @@ n  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

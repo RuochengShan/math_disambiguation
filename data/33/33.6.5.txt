@@ -28,7 +28,7 @@ _  O
 1  O
 )  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 \ell  O

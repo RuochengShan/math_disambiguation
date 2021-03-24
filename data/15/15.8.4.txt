@@ -22,13 +22,13 @@ z  O
 \right)  O
 =  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 -  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 -  O
@@ -64,11 +64,11 @@ c  O
 a  O
 -  O
 b  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 b  O
 \right)  O

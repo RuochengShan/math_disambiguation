@@ -25,7 +25,7 @@ a  O
 -  O
 3  O
 4  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

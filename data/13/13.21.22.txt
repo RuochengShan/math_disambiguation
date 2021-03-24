@@ -11,7 +11,7 @@ x  O
 2  O
 \pi  O
 \*  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 \mu  O
@@ -19,7 +19,7 @@ x  O
 1  O
 \right)  O
 \*  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 -  O

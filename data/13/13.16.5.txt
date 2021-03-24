@@ -18,7 +18,7 @@ z  O
 -  O
 2  O
 \mu  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

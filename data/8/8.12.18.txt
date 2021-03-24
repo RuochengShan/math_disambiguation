@@ -23,7 +23,7 @@ e  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

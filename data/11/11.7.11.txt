@@ -19,7 +19,7 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -39,7 +39,7 @@ t  O
 \pi  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

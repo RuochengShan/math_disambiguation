@@ -9,7 +9,7 @@ x  O
 =  O
 1  O
 \beta  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

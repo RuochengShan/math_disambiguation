@@ -19,7 +19,7 @@ k  O
 2  O
 k  O
 )  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

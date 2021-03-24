@@ -17,7 +17,7 @@ i  O
 ^  O
 i  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 t  O
@@ -32,7 +32,7 @@ x  O
 +  O
 2  O
 t  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

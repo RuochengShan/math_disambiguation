@@ -26,11 +26,11 @@ c  O
 +  O
 i  O
 \infty  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 t  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 t  O
 -  O

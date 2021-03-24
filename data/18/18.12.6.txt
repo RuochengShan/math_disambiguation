@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O

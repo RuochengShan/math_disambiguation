@@ -59,7 +59,7 @@ f  O
 1  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -67,7 +67,7 @@ d  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -75,7 +75,7 @@ e  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -83,7 +83,7 @@ f  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -95,13 +95,13 @@ f  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -111,7 +111,7 @@ e  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -121,7 +121,7 @@ f  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

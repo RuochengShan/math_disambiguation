@@ -30,7 +30,7 @@ z  O
 \right)  O
 =  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 _  O

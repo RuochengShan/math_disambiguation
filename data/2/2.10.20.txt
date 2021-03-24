@@ -27,7 +27,7 @@ x  O
 ^  O
 t  O
 (  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 t  O
 +  O

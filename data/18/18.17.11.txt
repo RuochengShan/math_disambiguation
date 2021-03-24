@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -47,7 +47,7 @@ _  O
 x  O
 ^  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
@@ -94,7 +94,7 @@ x  O
 \mu  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

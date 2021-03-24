@@ -12,11 +12,11 @@ s  O
 1  O
 )  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

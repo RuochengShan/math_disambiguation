@@ -29,7 +29,7 @@ _  O
 )  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -42,7 +42,7 @@ _  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

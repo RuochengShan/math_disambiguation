@@ -41,7 +41,7 @@ m  O
 ^  O
 2  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 3  O
 2  O

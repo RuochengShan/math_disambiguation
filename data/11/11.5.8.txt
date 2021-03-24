@@ -34,14 +34,14 @@ i  O
 \pi  O
 s  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 3  O
 2  O
 +  O
 s  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 3  O
 2  O

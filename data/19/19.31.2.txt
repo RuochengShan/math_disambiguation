@@ -36,7 +36,7 @@ n  O
 n  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -47,7 +47,7 @@ n  O
 \sqrt  O
 \det  O
 B  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

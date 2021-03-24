@@ -29,7 +29,7 @@ m  O
 2  O
 m  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 1  O

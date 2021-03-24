@@ -26,7 +26,7 @@ c  O
 +  O
 i  O
 \infty  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 t  O
 +  O
@@ -38,7 +38,7 @@ t  O
 2  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 t  O
 +  O
@@ -50,7 +50,7 @@ t  O
 2  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 t  O
 -  O
@@ -62,7 +62,7 @@ t  O
 2  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 t  O
 -  O
@@ -74,7 +74,7 @@ t  O
 2  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 t  O

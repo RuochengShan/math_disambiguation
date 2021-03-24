@@ -46,7 +46,7 @@ _  O
 j  O
 j  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 j  O
 +  O
@@ -66,7 +66,7 @@ j  O
 O  O
 \left(  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 J  O
 +  O

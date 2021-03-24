@@ -33,7 +33,7 @@ a  O
 \mu  O
 +  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

@@ -10,7 +10,7 @@ x  O
 )  O
 ^  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \beta  O
 +  O
@@ -55,7 +55,7 @@ y  O
 )  O
 ^  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \beta  O
 +  O
@@ -90,7 +90,7 @@ y  O
 \mu  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

@@ -21,7 +21,7 @@ b  O
 =  O
 \sqrt  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -34,7 +34,7 @@ b  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -43,7 +43,7 @@ a  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

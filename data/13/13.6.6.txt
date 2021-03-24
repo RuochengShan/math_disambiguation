@@ -41,7 +41,7 @@ z  O
 e  O
 ^  O
 z  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 1  O
 -  O

@@ -57,7 +57,7 @@ n  O
 n  O
 +  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
@@ -65,7 +65,7 @@ n  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \beta  O
 +  O
@@ -73,7 +73,7 @@ n  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O

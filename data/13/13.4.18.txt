@@ -26,7 +26,7 @@ i  O
 ^  O
 i  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 -  O
@@ -34,11 +34,11 @@ b  O
 +  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O

@@ -39,7 +39,7 @@ z  O
 ^  O
 n  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O

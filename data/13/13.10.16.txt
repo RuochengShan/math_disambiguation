@@ -31,7 +31,7 @@ xt  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

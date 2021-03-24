@@ -50,7 +50,7 @@ p  O
 4  O
 /  O
 3  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 4  O
 3  O
@@ -82,7 +82,7 @@ p  O
 5  O
 /  O
 3  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 5  O
 3  O

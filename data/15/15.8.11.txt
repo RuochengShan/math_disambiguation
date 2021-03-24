@@ -17,7 +17,7 @@ z  O
 ^  O
 -  O
 a  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
@@ -47,7 +47,7 @@ k  O
 !  O
 k  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 +  O
@@ -68,7 +68,7 @@ z  O
 ^  O
 -  O
 a  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
@@ -94,7 +94,7 @@ k  O
 m  O
 )  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 -  O

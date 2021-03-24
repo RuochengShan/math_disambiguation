@@ -20,7 +20,7 @@ K  O
 K  O
 +  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 q  O

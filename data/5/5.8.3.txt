@@ -1,9 +1,9 @@
 \left|  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 x  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 x  O
 +  O

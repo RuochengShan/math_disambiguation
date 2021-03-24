@@ -34,7 +34,7 @@ z  O
 \nu  O
 \sqrt  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

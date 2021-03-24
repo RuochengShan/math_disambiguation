@@ -83,7 +83,7 @@ k  O
 1  O
 ^  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
@@ -94,14 +94,14 @@ k  O
 )  O
 c  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
 kc  O
 \right)  O
 (  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

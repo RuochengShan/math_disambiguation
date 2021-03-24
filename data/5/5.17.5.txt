@@ -16,7 +16,7 @@ z  O
 z  O
 \operatorname  O
 Ln  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 +  O

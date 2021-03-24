@@ -30,7 +30,7 @@ z  O
 k  O
 +  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 \!  O
@@ -45,7 +45,7 @@ k  O
 3  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 \!  O

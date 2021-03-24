@@ -26,7 +26,7 @@ ab  O
 )  O
 ^  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O
@@ -58,7 +58,7 @@ b  O
 +  O
 1  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

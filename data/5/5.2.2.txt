@@ -3,13 +3,13 @@
 z  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 '  O
 \left(  O
 z  O
 \right)  O
 /  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 \right)  O

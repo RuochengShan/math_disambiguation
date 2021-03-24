@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -14,7 +14,7 @@ e  O
 2  O
 \pi  O
 mia  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -30,7 +30,7 @@ e  O
 \pi  O
 mia  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

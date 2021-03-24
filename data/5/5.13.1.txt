@@ -13,13 +13,13 @@ c  O
 +  O
 i  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 +  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 b  O
 -  O
@@ -32,7 +32,7 @@ s  O
 d  O
 s  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O

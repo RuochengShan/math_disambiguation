@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O

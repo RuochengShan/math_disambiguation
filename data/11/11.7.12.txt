@@ -26,7 +26,7 @@ t  O
 =  O
 \sqrt  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -37,7 +37,7 @@ t  O
 \mu  O
 +  O
 \nu  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -46,14 +46,14 @@ t  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

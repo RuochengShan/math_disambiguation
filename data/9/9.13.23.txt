@@ -24,7 +24,7 @@ m  O
 2  O
 m  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 /  O

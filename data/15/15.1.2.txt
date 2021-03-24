@@ -8,7 +8,7 @@ c  O
 ;  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 \right)  O

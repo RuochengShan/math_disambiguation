@@ -49,7 +49,7 @@ n  O
 )  O
 \*  O
 \left(  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -68,7 +68,7 @@ j  O
 1  O
 ^  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

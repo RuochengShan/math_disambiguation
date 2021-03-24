@@ -9,7 +9,7 @@ x  O
 =  O
 \sqrt  O
 x  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 \mu  O

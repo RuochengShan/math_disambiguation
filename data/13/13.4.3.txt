@@ -16,7 +16,7 @@ z  O
 1  O
 2  O
 b  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

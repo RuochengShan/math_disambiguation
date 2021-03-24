@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O
@@ -15,7 +15,7 @@ z  O
 1  O
 -  O
 q  O
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O

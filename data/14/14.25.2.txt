@@ -26,14 +26,14 @@ z  O
 2  O
 ^  O
 \mu  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

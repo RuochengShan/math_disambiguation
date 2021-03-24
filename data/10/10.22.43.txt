@@ -18,7 +18,7 @@ t  O
 2  O
 ^  O
 \mu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -31,7 +31,7 @@ t  O
 1  O
 2  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

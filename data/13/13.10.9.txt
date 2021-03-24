@@ -52,11 +52,11 @@ y  O
 -  O
 b  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

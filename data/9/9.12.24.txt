@@ -22,7 +22,7 @@ i  O
 ^  O
 i  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 3  O
@@ -31,7 +31,7 @@ i  O
 3  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 t  O

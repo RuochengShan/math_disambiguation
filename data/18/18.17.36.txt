@@ -40,11 +40,11 @@ x  O
 \beta  O
 +  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -63,7 +63,7 @@ _  O
 n  O
 n  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

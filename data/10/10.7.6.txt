@@ -13,7 +13,7 @@ csch  O
 \nu  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
@@ -36,7 +36,7 @@ i  O
 \nu  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

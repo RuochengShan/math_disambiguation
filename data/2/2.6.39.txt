@@ -11,11 +11,11 @@ s  O
 -  O
 \alpha  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
@@ -23,7 +23,7 @@ s  O
 -  O
 \alpha  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

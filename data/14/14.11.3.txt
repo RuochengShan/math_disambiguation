@@ -42,13 +42,13 @@ x  O
 \right)  O
 ^  O
 k  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 -  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O
@@ -58,7 +58,7 @@ k  O
 \right)  O
 k  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 -  O

@@ -35,13 +35,13 @@ k  O
 n  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 n  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O

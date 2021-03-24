@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 nz  O
 \right)  O
@@ -33,7 +33,7 @@ k  O
 n  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 z  O
 +  O

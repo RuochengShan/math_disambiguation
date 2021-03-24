@@ -53,7 +53,7 @@ b  O
 1  O
 \*  O
 \left|  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 \lambda  O
 +  O

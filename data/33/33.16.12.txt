@@ -31,7 +31,7 @@ _  O
 ,  O
 r  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \ell  O
 +  O
@@ -50,7 +50,7 @@ r  O
 \pi  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

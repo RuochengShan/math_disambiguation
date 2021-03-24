@@ -26,7 +26,7 @@ a  O
 \right)  O
 ^  O
 a  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 5  O
 6  O
@@ -35,7 +35,7 @@ a  O
 3  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -44,7 +44,7 @@ a  O
 3  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 5  O
 6  O

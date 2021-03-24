@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 z  O
@@ -16,11 +16,11 @@ z  O
 z  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 +  O

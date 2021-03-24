@@ -25,7 +25,7 @@ z  O
 d  O
 x  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 +  O

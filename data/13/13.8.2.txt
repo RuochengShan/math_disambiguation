@@ -7,11 +7,11 @@ b  O
 z  O
 \right)  O
 \sim  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 -  O

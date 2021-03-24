@@ -29,7 +29,7 @@ t  O
 2  O
 ^  O
 \mu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O

@@ -5,7 +5,7 @@ _  O
 xz  O
 \right)  O
 =  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

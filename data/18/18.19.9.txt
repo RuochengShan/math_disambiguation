@@ -4,7 +4,7 @@ n  O
 =  O
 2  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

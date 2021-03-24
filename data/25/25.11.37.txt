@@ -22,7 +22,7 @@ a  O
 -  O
 n  O
 \ln  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
@@ -38,7 +38,7 @@ j  O
 n  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O

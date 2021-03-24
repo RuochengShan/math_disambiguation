@@ -7,7 +7,7 @@ a  O
 \right)  O
 =  O
 \ln  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

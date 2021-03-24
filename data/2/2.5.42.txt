@@ -23,7 +23,7 @@ x  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
@@ -64,7 +64,7 @@ x  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

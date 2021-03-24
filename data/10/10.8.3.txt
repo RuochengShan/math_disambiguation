@@ -50,7 +50,7 @@ z  O
 k  O
 k  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -58,7 +58,7 @@ k  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

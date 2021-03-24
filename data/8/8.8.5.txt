@@ -21,9 +21,9 @@ e  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 1  O
-\right )  O
+\right)  O

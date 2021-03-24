@@ -13,7 +13,7 @@ e  O
 a  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

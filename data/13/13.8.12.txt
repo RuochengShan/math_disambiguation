@@ -25,7 +25,7 @@ e  O
 z  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -33,7 +33,7 @@ a  O
 -  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

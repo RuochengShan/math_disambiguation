@@ -1,5 +1,5 @@
 1  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 \right)  O

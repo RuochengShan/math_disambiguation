@@ -21,7 +21,7 @@ z  O
 2  O
 -  O
 \mu  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 2  O
 \mu  O

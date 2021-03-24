@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -9,7 +9,7 @@ a  O
 a  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O

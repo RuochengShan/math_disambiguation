@@ -7,7 +7,7 @@ _  O
 z  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 +  O

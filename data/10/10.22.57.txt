@@ -30,7 +30,7 @@ a  O
 \lambda  O
 -  O
 1  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -47,12 +47,12 @@ a  O
 1  O
 2  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 \right)  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -69,7 +69,7 @@ a  O
 1  O
 2  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -86,7 +86,7 @@ a  O
 1  O
 2  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

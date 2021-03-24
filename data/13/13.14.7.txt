@@ -15,7 +15,7 @@ _  O
 \left(  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 \mu  O
@@ -87,7 +87,7 @@ n  O
 \right)  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 -  O

@@ -5,7 +5,7 @@ n  O
 n  O
 !  O
 \,  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

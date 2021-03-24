@@ -14,7 +14,7 @@ e  O
 \pi  O
 i  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 +  O
@@ -24,7 +24,7 @@ i  O
 2  O
 \right)  O
 \*  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 -  O

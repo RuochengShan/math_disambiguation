@@ -32,7 +32,7 @@ k  O
 \right)  O
 k  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

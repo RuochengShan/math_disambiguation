@@ -1,5 +1,5 @@
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -33,7 +33,7 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -42,13 +42,13 @@ t  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 -  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -57,7 +57,7 @@ t  O
 +  O
 \kappa  O
 \right )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

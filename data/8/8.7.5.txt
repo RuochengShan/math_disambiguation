@@ -27,7 +27,7 @@ a  O
 \right)  O
 _  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

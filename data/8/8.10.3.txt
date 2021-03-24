@@ -6,7 +6,7 @@ a  O
 e  O
 ^  O
 x  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O

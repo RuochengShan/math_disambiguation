@@ -129,7 +129,7 @@ F  O
 z  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -137,7 +137,7 @@ z  O
 +  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -145,7 +145,7 @@ z  O
 +  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O
@@ -156,7 +156,7 @@ z  O
 3  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

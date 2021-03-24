@@ -14,7 +14,7 @@ e  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 p  O
 \right)  O

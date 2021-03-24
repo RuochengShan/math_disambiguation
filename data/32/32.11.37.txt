@@ -17,7 +17,7 @@ i  O
 \pi  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 -  O
 \nu  O

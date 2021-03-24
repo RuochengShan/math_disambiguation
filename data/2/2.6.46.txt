@@ -26,7 +26,7 @@ _  O
 s  O
 s  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -72,7 +72,7 @@ n  O
 d  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 -  O

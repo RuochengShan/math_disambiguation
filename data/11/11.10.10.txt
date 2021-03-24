@@ -28,7 +28,7 @@ z  O
 ^  O
 2  O
 k  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 \!  O
@@ -40,7 +40,7 @@ k  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 \!  O

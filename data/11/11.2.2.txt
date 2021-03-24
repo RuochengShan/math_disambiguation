@@ -45,14 +45,14 @@ z  O
 ^  O
 2  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O
 3  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 +  O

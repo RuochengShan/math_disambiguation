@@ -28,7 +28,7 @@ k  O
 3  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

@@ -44,7 +44,7 @@ x  O
 )  O
 ^  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 \right)  O

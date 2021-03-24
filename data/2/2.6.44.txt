@@ -62,11 +62,11 @@ n  O
 d  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 -  O

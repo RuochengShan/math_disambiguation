@@ -22,7 +22,7 @@ i  O
 ^  O
 2  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

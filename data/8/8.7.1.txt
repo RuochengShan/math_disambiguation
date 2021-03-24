@@ -21,7 +21,7 @@ k  O
 z  O
 ^  O
 k  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
@@ -31,7 +31,7 @@ k  O
 \right)  O
 =  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

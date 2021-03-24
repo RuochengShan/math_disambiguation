@@ -67,7 +67,7 @@ k  O
 m  O
 )  O
 \*  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 (  O
 r  O

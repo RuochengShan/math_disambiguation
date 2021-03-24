@@ -16,7 +16,7 @@ e  O
 ^  O
 \pm  O
 z  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

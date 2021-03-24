@@ -19,13 +19,13 @@ n  O
 pt  O
 n  O
 j  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

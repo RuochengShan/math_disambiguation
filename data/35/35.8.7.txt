@@ -27,7 +27,7 @@ _  O
 I  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -35,7 +35,7 @@ b  O
 _  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -43,11 +43,11 @@ b  O
 _  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -55,7 +55,7 @@ a  O
 _  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -65,7 +65,7 @@ a  O
 _  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 c  O
 +  O

@@ -13,7 +13,7 @@ b  O
 ,  O
 x  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 \right)  O

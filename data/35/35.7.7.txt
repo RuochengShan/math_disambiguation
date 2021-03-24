@@ -13,13 +13,13 @@ c  O
 I  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
 c  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -29,7 +29,7 @@ a  O
 -  O
 b  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left(  O
@@ -37,7 +37,7 @@ c  O
 -  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  multivariate_variable_gamma_function
 _  O
 m  O
 \left (  O

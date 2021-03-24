@@ -9,13 +9,13 @@ z  O
 \phi  O
 )  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O
 iz  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 -  O

@@ -40,7 +40,7 @@ e  O
 ^  O
 -  O
 x  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 b  O
 -  O

@@ -12,7 +12,7 @@ y  O
 \prod  O
 _  O
 j  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 _  O
@@ -20,7 +20,7 @@ j  O
 +  O
 iy  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 iy  O

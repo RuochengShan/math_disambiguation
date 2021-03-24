@@ -43,7 +43,7 @@ z  O
 -  O
 \mu  O
 \*  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

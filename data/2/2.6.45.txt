@@ -18,7 +18,7 @@ n  O
 a  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
@@ -26,7 +26,7 @@ s  O
 -  O
 \alpha  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -54,7 +54,7 @@ n  O
 c  O
 _  O
 s  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

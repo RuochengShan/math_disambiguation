@@ -22,7 +22,7 @@ t  O
 \mu  O
 -  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -32,7 +32,7 @@ t  O
 2  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

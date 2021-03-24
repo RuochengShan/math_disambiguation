@@ -13,7 +13,7 @@ e  O
 1  O
 2  O
 x  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

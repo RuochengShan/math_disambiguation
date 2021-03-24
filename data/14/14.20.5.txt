@@ -53,7 +53,7 @@ e  O
 \right)  O
 )  O
 |  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

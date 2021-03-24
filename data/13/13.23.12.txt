@@ -39,7 +39,7 @@ xt  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O
@@ -48,7 +48,7 @@ t  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 3  O
 2  O

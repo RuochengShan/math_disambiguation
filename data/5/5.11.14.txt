@@ -1,10 +1,10 @@
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 +  O
 a  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 +  O

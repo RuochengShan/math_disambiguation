@@ -46,7 +46,7 @@ m  O
 ^  O
 2  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 5  O
 2  O

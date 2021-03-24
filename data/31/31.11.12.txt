@@ -2,13 +2,13 @@ P  O
 _  O
 j  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
 j  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O
@@ -18,7 +18,7 @@ j  O
 +  O
 j  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

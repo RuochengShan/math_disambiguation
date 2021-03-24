@@ -5,7 +5,7 @@ z  O
 1  O
 \sqrt  O
 \pi  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 1  O
 2  O

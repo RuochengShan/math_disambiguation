@@ -14,7 +14,7 @@ b  O
 1  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 -  O
@@ -22,7 +22,7 @@ b  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -30,13 +30,13 @@ a  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

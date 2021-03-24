@@ -33,7 +33,7 @@ n  O
 z  O
 ^  O
 k  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O

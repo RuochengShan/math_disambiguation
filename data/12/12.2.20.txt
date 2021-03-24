@@ -7,7 +7,7 @@ z  O
 =  O
 \mp  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

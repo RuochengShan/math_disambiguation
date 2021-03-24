@@ -22,7 +22,7 @@ n  O
 0  O
 ^  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
@@ -31,7 +31,7 @@ n  O
 -  O
 m  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 ^  O
@@ -42,11 +42,11 @@ m  O
 -  O
 n  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 ^  O

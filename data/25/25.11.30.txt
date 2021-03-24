@@ -5,7 +5,7 @@ s  O
 a  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

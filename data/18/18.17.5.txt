@@ -45,7 +45,7 @@ n  O
 1  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O
@@ -56,7 +56,7 @@ n  O
 ^  O
 1  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 \right)  O

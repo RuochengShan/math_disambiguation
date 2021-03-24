@@ -30,7 +30,7 @@ i  O
 \mu  O
 m  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -39,7 +39,7 @@ m  O
 -  O
 \kappa  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O

@@ -15,7 +15,7 @@ z  O
 a  O
 -  O
 b  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O
@@ -57,7 +57,7 @@ z  O
 ^  O
 -  O
 a  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 -  O

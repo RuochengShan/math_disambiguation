@@ -19,7 +19,7 @@ s  O
 \pi  O
 s  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 1  O
 -  O

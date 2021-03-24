@@ -1,11 +1,11 @@
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O
 1  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  q_gamma_function
 _  O
 q  O
 \left(  O

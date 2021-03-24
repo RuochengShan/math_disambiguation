@@ -42,7 +42,7 @@ _  O
 )  O
 ^  O
 j  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 +  O

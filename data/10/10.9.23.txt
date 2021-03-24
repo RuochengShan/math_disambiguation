@@ -20,11 +20,11 @@ ic  O
 \infty  O
 +  O
 ic  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 t  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

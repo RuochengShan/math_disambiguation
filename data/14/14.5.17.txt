@@ -32,7 +32,7 @@ _  O
 \right)  O
 \xi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

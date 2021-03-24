@@ -17,7 +17,7 @@ k  O
 z  O
 ^  O
 k  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 ak  O
 +  O

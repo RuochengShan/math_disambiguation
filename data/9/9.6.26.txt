@@ -9,7 +9,7 @@ z  O
 1  O
 /  O
 6  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 3  O
@@ -46,7 +46,7 @@ _  O
 7  O
 /  O
 3  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 3  O

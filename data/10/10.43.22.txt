@@ -29,13 +29,13 @@ t  O
 ^  O
 1  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 -  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -87,13 +87,13 @@ a  O
 ^  O
 1  O
 2  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 -  O
 \nu  O
 \right)  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left (  O
 \mu  O
 +  O

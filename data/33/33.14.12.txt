@@ -5,7 +5,7 @@ A  O
 \ell  O
 )  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -13,7 +13,7 @@ A  O
 +  O
 \kappa  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \kappa  O
 -  O

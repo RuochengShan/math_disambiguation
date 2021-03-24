@@ -25,11 +25,11 @@ d  O
 \right)  O
 =  O
 \pi  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 d  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 c  O
@@ -44,7 +44,7 @@ d  O
 -  O
 2  O
 c  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 +  O
@@ -58,7 +58,7 @@ d  O
 1  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 c  O
 +  O
@@ -72,7 +72,7 @@ a  O
 d  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -82,7 +82,7 @@ a  O
 d  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

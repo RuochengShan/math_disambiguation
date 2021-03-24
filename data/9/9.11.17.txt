@@ -17,7 +17,7 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O

@@ -7,7 +7,7 @@ _  O
 z  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -25,7 +25,7 @@ z  O
 -  O
 2  O
 \mu  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -34,7 +34,7 @@ z  O
 -  O
 \kappa  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

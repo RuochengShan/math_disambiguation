@@ -5,7 +5,7 @@ B  O
 -  O
 2  O
 \sigma  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O
@@ -17,7 +17,7 @@ B  O
 \sigma  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left (  O
 1  O
 2  O
@@ -29,7 +29,7 @@ B  O
 +  O
 \nu  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O
@@ -41,7 +41,7 @@ B  O
 \sigma  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

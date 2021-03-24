@@ -25,7 +25,7 @@ e  O
 \mu  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -33,7 +33,7 @@ i  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 -  O

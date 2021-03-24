@@ -15,7 +15,7 @@ e  O
 i  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

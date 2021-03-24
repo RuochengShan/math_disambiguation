@@ -22,7 +22,7 @@ x  O
 arctan  O
 \beta  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

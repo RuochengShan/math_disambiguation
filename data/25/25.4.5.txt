@@ -83,7 +83,7 @@ m  O
 s  O
 \right)  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 (  O
 r  O

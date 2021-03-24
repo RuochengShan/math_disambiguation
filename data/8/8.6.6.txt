@@ -1,4 +1,4 @@
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -15,7 +15,7 @@ e  O
 ^  O
 -  O
 z  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

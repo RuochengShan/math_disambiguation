@@ -8,7 +8,7 @@ _  O
 ^  O
 \infty  O
 |  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O
@@ -29,7 +29,7 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 a  O

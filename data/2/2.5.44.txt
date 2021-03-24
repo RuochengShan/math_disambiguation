@@ -21,7 +21,7 @@ n  O
 b  O
 _  O
 n  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 -  O

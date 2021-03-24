@@ -19,7 +19,7 @@ z  O
 k  O
 k  O
 !  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \rho  O
 k  O

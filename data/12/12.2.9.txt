@@ -16,7 +16,7 @@ a  O
 3  O
 4  O
 \left(  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 4  O
@@ -28,7 +28,7 @@ a  O
 \right)  O
 ^  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 3  O
 4  O

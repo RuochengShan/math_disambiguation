@@ -33,7 +33,7 @@ k  O
 m  O
 _  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 n  O
 \!  O
@@ -46,7 +46,7 @@ k  O
 1  O
 2  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

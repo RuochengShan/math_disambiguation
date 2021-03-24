@@ -9,7 +9,7 @@ z  O
 2  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 p  O
 \right)  O

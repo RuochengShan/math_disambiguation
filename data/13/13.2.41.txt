@@ -1,5 +1,5 @@
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 \right)  O
@@ -18,7 +18,7 @@ e  O
 a  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 b  O
 -  O
@@ -43,7 +43,7 @@ a  O
 )  O
 \pi  O
 i  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 \right)  O

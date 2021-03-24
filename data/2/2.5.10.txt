@@ -16,7 +16,7 @@ z  O
 z  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O
@@ -24,7 +24,7 @@ z  O
 2  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 ^  O
 2  O
 \left(  O
@@ -34,7 +34,7 @@ z  O
 2  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -44,7 +44,7 @@ z  O
 2  O
 z  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 z  O
 \right)  O

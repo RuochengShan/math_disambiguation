@@ -7,7 +7,7 @@ _  O
 z  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -17,7 +17,7 @@ z  O
 z  O
 ^  O
 \lambda  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 +  O
@@ -27,7 +27,7 @@ z  O
 2  O
 \lambda  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 \lambda  O

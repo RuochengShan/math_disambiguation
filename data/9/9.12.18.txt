@@ -18,7 +18,7 @@ k  O
 0  O
 ^  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

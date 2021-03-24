@@ -11,7 +11,7 @@ x  O
 \right)  O
 =  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 2  O
 \mu  O

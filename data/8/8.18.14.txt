@@ -25,7 +25,7 @@ b  O
 1  O
 /  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 (  O
 b  O
 )  O

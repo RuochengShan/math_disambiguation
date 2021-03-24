@@ -18,7 +18,7 @@ d  O
 x  O
 =  O
 -  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 a  O
 +  O

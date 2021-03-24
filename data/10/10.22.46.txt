@@ -41,7 +41,7 @@ b  O
 2  O
 ^  O
 \mu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O

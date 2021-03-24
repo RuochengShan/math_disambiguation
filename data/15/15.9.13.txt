@@ -33,7 +33,7 @@ i  O
 (  O
 t  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -47,7 +47,7 @@ t  O
 \lambda  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -61,13 +61,13 @@ t  O
 \lambda  O
 )  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 \right)  O

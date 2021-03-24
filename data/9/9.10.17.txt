@@ -15,7 +15,7 @@ t  O
 d  O
 t  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \alpha  O
 \right)  O
@@ -28,7 +28,7 @@ t  O
 )  O
 /  O
 3  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 3  O

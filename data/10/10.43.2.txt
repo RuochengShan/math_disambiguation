@@ -20,7 +20,7 @@ z  O
 \nu  O
 -  O
 1  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \nu  O
 +  O

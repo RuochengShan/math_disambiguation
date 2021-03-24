@@ -80,7 +80,7 @@ i  O
 \mu  O
 \pi  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -89,7 +89,7 @@ i  O
 -  O
 \kappa  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

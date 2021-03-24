@@ -9,7 +9,7 @@ n  O
 e  O
 ^  O
 z  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 ,  O
@@ -33,7 +33,7 @@ n  O
 e  O
 ^  O
 z  O
-\Gamma  O
+\Gamma  incomplete_gamma_function
 \left(  O
 a  O
 -  O

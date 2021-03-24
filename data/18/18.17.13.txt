@@ -15,7 +15,7 @@ x  O
 -  O
 1  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O
@@ -73,7 +73,7 @@ y  O
 -  O
 1  O
 2  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \lambda  O
 +  O
@@ -113,7 +113,7 @@ y  O
 \mu  O
 -  O
 1  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 \mu  O
 \right)  O

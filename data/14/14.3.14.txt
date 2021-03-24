@@ -12,7 +12,7 @@ x  O
 2  O
 ^  O
 \mu  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O
@@ -24,7 +24,7 @@ x  O
 +  O
 1  O
 \right)  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 1  O
 2  O

@@ -33,7 +33,7 @@ b  O
 )  O
 ^  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 +  O
@@ -100,7 +100,7 @@ b  O
 ^  O
 -  O
 \nu  O
-\Gamma  gamma-function
+\Gamma  gamma_function
 \left(  O
 \mu  O
 -  O

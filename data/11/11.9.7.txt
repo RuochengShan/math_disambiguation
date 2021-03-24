@@ -28,7 +28,7 @@ k  O
 +  O
 1  O
 )  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 k  O
 +  O

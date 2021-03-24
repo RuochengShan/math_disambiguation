@@ -5,7 +5,7 @@ k  O
 0  O
 ^  O
 \infty  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 +  O
@@ -28,7 +28,7 @@ k  O
 1  O
 \right)  O
 =  O
-\Gamma  O
+\Gamma  gamma_function
 \left(  O
 s  O
 -  O
