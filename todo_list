@@ -2,12 +2,44 @@
 2. search by token
 3. label rule
 
+## last variable of POM not recorded
+
 
 labels -
     Gamma is "\Gamma"
+    prime is "\prime"
 
-
-Rules -
+Rules - Gamma
     multivariate variable gamma function: [\Gamma, _, m]
     q gamma function: [\Gamma, _, q]
     incomplete gamma function : [\Gamma, "^" or no "^", "\left(", three element a,b, "\right"
+
+
+
+Rules - Prime
+    derivatives
+    new_variable_function
+
+Rules - ^
+    derivatives - followed by prime?
+    new variable - followed by () and not following "f"
+    integral - following \int
+
+    power - power before integral
+    sum - \sum right to ^
+
+
+    power left to
+
+
+variable - z,x,t,e
+
+ - check all the primes mannully a'
+ - delete all the ^ followed by prime
+ -
+
+
+
+
+
+
